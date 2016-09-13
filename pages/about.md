@@ -23,7 +23,7 @@ permalink: /about/
 * 掘金：[{{ site.title }}]({{ site.url }})
 * LinkedIn：[@sinomiko](https://www.linkedin.com/in/sinomiko)
 * 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@墨白-2015](http://http://weibo.com/1772029834)
+* 微博: [@墨白-2015](//https://weibo.com/1772029834)
 * 知乎: [{{ site.title }}]({{ site.url }})
 * 豆瓣: [{{ site.title }}]({{ site.url }})
 
