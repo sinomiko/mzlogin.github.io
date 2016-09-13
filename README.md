@@ -69,7 +69,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 ## 致谢
 
-本博客外观基于 [DONGChuan](http://dongchuan.github.io), [Zhuang Ma](https://github.com/mzlogin/mzlogin.github.io) 修改，由于 [Zhuang Ma]博客相当精美，不忍删除，留作表率，致谢！
+本博客外观基于 [DONGChuan](http://dongchuan.github.io), [Zhuang Ma](https://github.com/mzlogin/mzlogin.github.io) 修改，由于 [Zhuang Ma](https://github.com/mzlogin/mzlogin.github.io)博客相当精美，不忍删除，留作表率，致谢！
 
 [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
