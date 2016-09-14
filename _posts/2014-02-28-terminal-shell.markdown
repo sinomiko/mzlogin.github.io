@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 控制台，终端，tty，shell等概念的区别
-category: 工具
+category: Unix/Linux
 comments: true
 ---
 
