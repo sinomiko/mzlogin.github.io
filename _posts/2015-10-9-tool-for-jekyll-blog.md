@@ -1,9 +1,7 @@
 ---
-tags:
-  - daily
 layout: post
 title: '写 Jekyll 博客工具'
-category: daily
+category: jekyll
 time: 2016.02.10 14:22:00
 excerpt: 上次说要写一个类似 stackeditor 的东西来写 Jekyll 博客，终于写好了。这将是第一篇用该工具写的博客。
 ---
