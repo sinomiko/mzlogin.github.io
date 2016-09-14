@@ -2,8 +2,8 @@
 layout:     post
 title:      C语言高级编程指南
 keywords:   C
-categories: [c, programming]
-tags:	    [c, programming]
+categories: C语言
+
 ---
 
 

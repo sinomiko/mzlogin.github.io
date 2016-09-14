@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java 中的比较运算符
-categories: Java
+categories: JAVA
 description: Java 中的比较运算符里有没有什么陷阱呢？
 keywords: Java, Compare
 ---
