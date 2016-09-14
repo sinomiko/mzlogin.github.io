@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moziila 文件结构概览（译）
-categories: Gecko
+categories: 源代码阅读
 description: 对 Mozilla 官方文档中的文件结构概览的翻译。
 keywords: Mozilla
 ---
