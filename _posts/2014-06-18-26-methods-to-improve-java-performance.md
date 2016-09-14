@@ -3,7 +3,7 @@ layout: post
 title: Java编程Tips
 description: Java编程中“为了性能”尽量要做到的一些地方
 keywords: JAVA
-categories : [java]
+categories : JAVA
 tags : [java, 性能]
 ---
 
