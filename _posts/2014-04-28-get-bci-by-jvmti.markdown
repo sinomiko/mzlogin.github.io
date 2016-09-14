@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 使用JVMTI获取Java多线程程序指令执行次序
-categories: [技术, Java, 虚拟机]
+categories: Java虚拟机
 comments: true
 ---
 
