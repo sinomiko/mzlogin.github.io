@@ -2,10 +2,7 @@
 published: true
 layout: post
 title: 字节对齐
-category: program
-tags: 
-  - cpp
-  - c
+categories: 2015-09-23
 time: 2016.02.8 14:22:00
 excerpt: Linux 沿用的对齐策略是，2字节数据类型（例如`short`）的地址是2的倍数，而较大的数据类型（例如`int`、`int*`、`float`和`double`）的地址必须是4的倍数。
 
