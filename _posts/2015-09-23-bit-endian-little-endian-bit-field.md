@@ -2,11 +2,8 @@
 category: program
 layout: post
 published: true
-tags:
-  - cpp
-  - c
 title: 位域的大小端问题
-categories: []
+categories: CPlusPlus
 time: 2016.02.6 14:22:00
 excerpt: Linux 沿用的对齐策略是，2字节数据类型（例如`short`）的地址是2的倍数，而较大的数据类型（例如`int`、`int*`、`float`和`double`）的地址必须是4的倍数。
 
