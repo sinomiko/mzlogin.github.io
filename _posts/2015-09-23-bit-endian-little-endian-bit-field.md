@@ -1,5 +1,4 @@
 ---
-category: program
 layout: post
 published: true
 title: 位域的大小端问题
