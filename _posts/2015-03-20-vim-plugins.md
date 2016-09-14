@@ -4,7 +4,7 @@ title: 一些强大的Vim插件
 keyword: Vim
 tags: Vim
 date: 2015-03-20 09:20:26 +800
-category:   other
+category:   Vim
 ---
 
 *  目录
