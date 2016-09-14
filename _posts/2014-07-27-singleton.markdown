@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 单例模式
 categories: [技术, 设计模式]
 comments: true

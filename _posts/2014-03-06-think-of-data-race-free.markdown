@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 对Data Race Free 的理解
 categories: [科研]
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Java 内存模型论文阅读
 categories: [科研]
 comments: true

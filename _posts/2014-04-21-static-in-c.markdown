@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 对C语言中的static关键字的深入理解
 categories: [技术, C语言, 计算机系统]
 comments: true

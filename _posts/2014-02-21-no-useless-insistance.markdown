@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 不要做无谓的坚持和幻想的努力
 category: 生活
 comments: true

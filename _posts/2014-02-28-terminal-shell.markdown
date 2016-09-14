@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 控制台，终端，tty，shell等概念的区别
 category: 工具
 comments: true

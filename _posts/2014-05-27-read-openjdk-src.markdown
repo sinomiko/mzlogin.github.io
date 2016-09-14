@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 开始OpenJDK源代码阅读
 categories: [技术, Java, 源代码阅读]
 comments: true

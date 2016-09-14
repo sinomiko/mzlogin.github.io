@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: OpenJDK 源码阅读之 HashSet
 categories: [技术, Java, 源代码阅读]
 comments: true

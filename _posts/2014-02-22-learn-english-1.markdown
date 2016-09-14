@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 学习英语第一周
 category: 英语 
 comments: true

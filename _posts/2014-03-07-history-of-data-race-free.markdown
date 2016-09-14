@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Data Race Free 的前世今生
 categories: [科研]
 comments: true
