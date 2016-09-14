@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenJDK 源码阅读之 ArrayList
-categories: [技术, Java, 源代码阅读]
+categories: 源代码阅读
 comments: true
 ---
 
