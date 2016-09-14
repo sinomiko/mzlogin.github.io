@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title: 使用 Markdown
-category: 工具
+categories: 工具
 comments: true
 ---
 
