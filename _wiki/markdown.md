@@ -14,14 +14,14 @@ keywords: Markdown
 ### 超链接
 
 ```
-[靠谱-ing](http://mazhuang.org)
+[靠谱-ing](https://sinomiko.github.io)
 
-<http://mazhuang.org>
+<https://sinomiko.github.io>
 ```
 
-[靠谱-ing](http://mazhuang.org)  
+[靠谱-ing](https://sinomiko.github.io)  
 
-<http://mazhuang.org>
+<https://sinomiko.github.io>
 
 ### 列表
 
