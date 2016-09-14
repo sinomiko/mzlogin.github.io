@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: web.py 源代码分析之 web.test.application.test_UppercaseMethods
 category: 源代码阅读
 comments: true

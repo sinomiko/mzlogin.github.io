@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: WSGI 简介
 category: 技术
 comments: true

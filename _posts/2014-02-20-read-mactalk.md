@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 读《MacTalk 人生元编程》
 category: 读书
 comments: true

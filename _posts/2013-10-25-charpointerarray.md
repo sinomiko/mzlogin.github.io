@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 字符指针与字符数组真正的区别
 categories: [技术, C语言, 计算机系统]
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 如何编写高质量的程序
 category: 思想
 comments: true
