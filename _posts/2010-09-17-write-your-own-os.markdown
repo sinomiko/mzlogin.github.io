@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title: 关于《自己动手写操作系统》的总结
-category: 操作系统
+categories: 操作系统
 comments: true
 ---
 
