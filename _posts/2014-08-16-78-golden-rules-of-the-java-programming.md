@@ -2,7 +2,7 @@
 layout: post
 title: java编程的78条黄金法则
 keywords: java
-categories : [java, reprints]
+categories : JAVA
 tags : [java]
 ---
 
