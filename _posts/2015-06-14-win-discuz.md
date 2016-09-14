@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Win7 下部署 Discuz!
-categories: PHP
+categories: web
 description: 在 Win7 下部署 Discuz! 的详细步骤。
 keywords: PHP, Discuz
 ---
