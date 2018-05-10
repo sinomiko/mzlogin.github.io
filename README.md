@@ -1,4 +1,4 @@
-# 码志
+# Miko Blog
 
 我的个人博客：<http://sinomiko.github.io>，欢迎 Star 和 Fork。
 

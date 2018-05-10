@@ -8,9 +8,8 @@ menu: 链接
 permalink: /links/
 ---
 
-> God made relatives. Thank God we can choose our friends.
+> Thanks for the support.
 
-* [Connie酱](http://biedan.org)
-* [只宁静不致远](http://zxning.github.io/)
-* [Blog Something](http://chenxiaoyoyo.github.io)
-* [码志](http://mazhuang.org)
+{% for link in site.data.links %}
+* [{{ link.name }}]({{ link.url }})
+{% endfor %}

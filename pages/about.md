@@ -27,25 +27,21 @@ permalink: /about/
 * 知乎: [{{ site.title }}]({{ site.url }})
 * 豆瓣: [{{ site.title }}]({{ site.url }})
 
+{% for website in site.data.social %}
+* {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
+{% endfor %}
+			
+			   
+		   
+		   
+
 ## Skill Keywords
 
-#### Software Engineer Keywords
+{% for category in site.data.skills %}
+### {{ category.name }}
 <div class="btn-inline">
-    {% for keyword in site.skill_software_keywords %}
-    <button class="btn btn-outline" type="button">{{ keyword }}</button>
-    {% endfor %}
+{% for keyword in category.keywords %}
+<button class="btn btn-outline" type="button">{{ keyword }}</button>
+{% endfor %}
 </div>
-
-#### Mobile Developer Keywords
-<div class="btn-inline">
-    {% for keyword in site.skill_mobile_app_keywords %}
-    <button class="btn btn-outline" type="button">{{ keyword }}</button>
-    {% endfor %}
-</div>
-
-#### Windows Developer Keywords
-<div class="btn-inline">
-    {% for keyword in site.skill_windows_keywords %}
-    <button class="btn btn-outline" type="button">{{ keyword }}</button>
-    {% endfor %}
-</div>
+{% endfor %}
