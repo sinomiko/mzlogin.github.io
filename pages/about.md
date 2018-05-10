@@ -19,14 +19,6 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@sinomiko](https://github.com/sinomiko)
-* 掘金：[{{ site.title }}]({{ site.url }})
-* LinkedIn：[@sinomiko](https://www.linkedin.com/in/sinomiko)
-* 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@墨白-2015](https://weibo.com/1772029834)
-* 知乎: [{{ site.title }}]({{ site.url }})
-* 豆瓣: [{{ site.title }}]({{ site.url }})
-
 {% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
 {% endfor %}
